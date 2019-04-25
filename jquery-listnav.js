@@ -382,6 +382,7 @@
     cookieName: null,
     onClick: null,
     prefixes: [],
-    filterSelector: ''
+    filterSelector: '',
+    filter_container: null,
   };
 })(jQuery);
