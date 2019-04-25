@@ -1,10 +1,10 @@
 {
-  "name": "jquery-listnav",
+  "name": "pe-listnav",
   "version": "3.0.0",
   "dependencies": {
     "jquery": ">=3.0.0"
   },
-  "homepage": "http://esteinborn.github.io/jquery-listnav",
+  "homepage": "http://github.com/phil-evans/pe-listnav",
   "authors": [
     {
       "name": "Eric Steinborn",
